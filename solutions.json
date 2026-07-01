@@ -11,5 +11,18 @@
     "submissionId": "2052778504",
     "timestamp": "1782934332",
     "path": "Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp"
+  },
+  {
+    "problemId": "2099",
+    "problemTitle": "Number of Strings That Appear as Substrings in Word",
+    "problemSlug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.7 MB",
+    "submissionId": "2052780160",
+    "timestamp": "1782934481",
+    "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp"
   }
 ]
