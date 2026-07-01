@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 3
+Total Solved: 4
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 3
 ## Medium
 
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
+- Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
 
 ## Hard
 
@@ -20,7 +21,7 @@ Total Solved: 3
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
