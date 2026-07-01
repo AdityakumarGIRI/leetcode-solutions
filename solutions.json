@@ -37,5 +37,18 @@
     "submissionId": "2052780820",
     "timestamp": "1782934539",
     "path": "Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp"
+  },
+  {
+    "problemId": "2914",
+    "problemTitle": "Find the Safest Path in a Grid",
+    "problemSlug": "find-the-safest-path-in-a-grid",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "324 ms",
+    "memory": "147.3 MB",
+    "submissionId": "2052837519",
+    "timestamp": "1782941313",
+    "path": "Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp"
   }
 ]
