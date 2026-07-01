@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "1460",
+    "problemTitle": "Number of Substrings Containing All Three Characters",
+    "problemSlug": "number-of-substrings-containing-all-three-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "11 MB",
+    "submissionId": "2052778504",
+    "timestamp": "1782934332",
+    "path": "Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp"
+  }
+]
