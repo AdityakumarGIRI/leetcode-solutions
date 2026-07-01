@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
-*No easy problems solved yet.*
+- Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 
 ## Medium
 
@@ -18,7 +18,7 @@ Total Solved: 1
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 1 |
 | Hard | 0 |
 
