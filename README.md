@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 2
+Total Solved: 3
 
 ## Easy
 
+- Check if the Sentence Is Pangram ([C++](Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 
 ## Medium
@@ -18,7 +19,7 @@ Total Solved: 2
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 1 |
 | Hard | 0 |
 
