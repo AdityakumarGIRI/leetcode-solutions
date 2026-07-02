@@ -50,5 +50,18 @@
     "submissionId": "2052837519",
     "timestamp": "1782941313",
     "path": "Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp"
+  },
+  {
+    "problemId": "3558",
+    "problemTitle": "Find a Safe Walk Through a Grid",
+    "problemSlug": "find-a-safe-walk-through-a-grid",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "12 ms",
+    "memory": "30.6 MB",
+    "submissionId": "2053999675",
+    "timestamp": "1783025724",
+    "path": "Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp"
   }
 ]
