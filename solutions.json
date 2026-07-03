@@ -63,5 +63,18 @@
     "submissionId": "2053999675",
     "timestamp": "1783025724",
     "path": "Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp"
+  },
+  {
+    "problemId": "3919",
+    "problemTitle": "Network Recovery Pathways",
+    "problemSlug": "network-recovery-pathways",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "150 ms",
+    "memory": "314.9 MB",
+    "submissionId": "2055063094",
+    "timestamp": "1783107500",
+    "path": "Hard/3919_Network_Recovery_Pathways.cpp"
   }
 ]
