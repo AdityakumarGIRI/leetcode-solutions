@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -15,7 +15,7 @@ Total Solved: 5
 
 ## Hard
 
-*No hard problems solved yet.*
+- Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
 
 ## Statistics
 
@@ -23,7 +23,7 @@ Total Solved: 5
 |------------|--------|
 | Easy | 2 |
 | Medium | 3 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
