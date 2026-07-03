@@ -33,7 +33,7 @@ public:
             vals.push_back(c);
         }
 
-        // Topological order
+
         queue<int> q;
         for (int i = 0; i < n; i++) {
             if (indeg[i] == 0) q.push(i);
@@ -63,13 +63,11 @@ public:
             for (int u : topo) {
                 if (dist[u] == INF) continue;
 
-                // intermediate nodes must be online
                 if (u != 0 && u != n - 1 && !online[u]) continue;
 
                 for (auto &[v, cost] : adj[u]) {
                     if (cost < minEdge) continue;
 
-                    // intermediate destination node must be online
                     if (v != n - 1 && !online[v]) continue;
 
                     dist[v] = min(dist[v], dist[u] + (long long)cost);
