@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 6
 ## Medium
 
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
+- Minimum Score of a Path Between Two Cities ([C++](Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp))
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
 - Find a Safe Walk Through a Grid ([C++](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp))
 
@@ -22,7 +23,7 @@ Total Solved: 6
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 1 |
 
 ---
