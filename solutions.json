@@ -76,5 +76,18 @@
     "submissionId": "2055063302",
     "timestamp": "1783107521",
     "path": "Hard/3919_Network_Recovery_Pathways.cpp"
+  },
+  {
+    "problemId": "2582",
+    "problemTitle": "Minimum Score of a Path Between Two Cities",
+    "problemSlug": "minimum-score-of-a-path-between-two-cities",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "53 ms",
+    "memory": "132.7 MB",
+    "submissionId": "2056231207",
+    "timestamp": "1783196209",
+    "path": "Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp"
   }
 ]
