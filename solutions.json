@@ -89,5 +89,18 @@
     "submissionId": "2056231207",
     "timestamp": "1783196209",
     "path": "Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp"
+  },
+  {
+    "problemId": "1234",
+    "problemTitle": "Number of Paths with Max Score",
+    "problemSlug": "number-of-paths-with-max-score",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "5 ms",
+    "memory": "11.6 MB",
+    "submissionId": "2056908998",
+    "timestamp": "1783255516",
+    "path": "Hard/1234_Number_of_Paths_with_Max_Score.cpp"
   }
 ]
