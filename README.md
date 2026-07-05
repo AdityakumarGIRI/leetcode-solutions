@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 7
 
 ## Hard
 
+- Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
 - Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
 
 ## Statistics
@@ -24,7 +25,7 @@ Total Solved: 7
 |------------|--------|
 | Easy | 2 |
 | Medium | 4 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
