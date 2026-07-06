@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 8
 
 ## Medium
 
+- Remove Covered Intervals ([C++](Medium/1222_Remove_Covered_Intervals.cpp))
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
 - Minimum Score of a Path Between Two Cities ([C++](Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp))
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
@@ -24,7 +25,7 @@ Total Solved: 8
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 2 |
 
 ---
