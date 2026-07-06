@@ -102,5 +102,18 @@
     "submissionId": "2056908998",
     "timestamp": "1783255516",
     "path": "Hard/1234_Number_of_Paths_with_Max_Score.cpp"
+  },
+  {
+    "problemId": "1222",
+    "problemTitle": "Remove Covered Intervals",
+    "problemSlug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2058537057",
+    "timestamp": "1783370588",
+    "path": "Medium/1222_Remove_Covered_Intervals.cpp"
   }
 ]
