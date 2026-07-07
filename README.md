@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
+- Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Check if the Sentence Is Pangram ([C++](Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
@@ -25,7 +26,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 5 |
 | Hard | 2 |
 
