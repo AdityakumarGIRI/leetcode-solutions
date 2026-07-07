@@ -128,5 +128,18 @@
     "submissionId": "2059567501",
     "timestamp": "1783442995",
     "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp"
+  },
+  {
+    "problemId": "1086",
+    "problemTitle": "Divisor Game",
+    "problemSlug": "divisor-game",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.6 MB",
+    "submissionId": "2059732283",
+    "timestamp": "1783451795",
+    "path": "Easy/1086_Divisor_Game.cpp"
   }
 ]
