@@ -115,5 +115,18 @@
     "submissionId": "2058537057",
     "timestamp": "1783370588",
     "path": "Medium/1222_Remove_Covered_Intervals.cpp"
+  },
+  {
+    "problemId": "4135",
+    "problemTitle": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "problemSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.3 MB",
+    "submissionId": "2059567501",
+    "timestamp": "1783442995",
+    "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp"
   }
 ]
