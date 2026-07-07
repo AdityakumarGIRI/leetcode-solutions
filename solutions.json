@@ -110,10 +110,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "15.2 MB",
-    "submissionId": "2058537057",
-    "timestamp": "1783370588",
+    "runtime": "2 ms",
+    "memory": "15.1 MB",
+    "submissionId": "2059631556",
+    "timestamp": "1783445950",
     "path": "Medium/1222_Remove_Covered_Intervals.cpp"
   },
   {
