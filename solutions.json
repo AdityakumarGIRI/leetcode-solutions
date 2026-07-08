@@ -141,5 +141,18 @@
     "submissionId": "2059732283",
     "timestamp": "1783451795",
     "path": "Easy/1086_Divisor_Game.cpp"
+  },
+  {
+    "problemId": "4136",
+    "problemTitle": "Concatenate Non-Zero Digits and Multiply by Sum II",
+    "problemSlug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "34 ms",
+    "memory": "165.9 MB",
+    "submissionId": "2061005766",
+    "timestamp": "1783541542",
+    "path": "Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp"
   }
 ]
