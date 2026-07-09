@@ -154,5 +154,18 @@
     "submissionId": "2061005766",
     "timestamp": "1783541542",
     "path": "Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp"
+  },
+  {
+    "problemId": "33",
+    "problemTitle": "Search in Rotated Sorted Array",
+    "problemSlug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15 MB",
+    "submissionId": "2062172130",
+    "timestamp": "1783625199",
+    "path": "Medium/0033_Search_in_Rotated_Sorted_Array.cpp"
   }
 ]
