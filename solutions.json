@@ -167,5 +167,18 @@
     "submissionId": "2062172130",
     "timestamp": "1783625199",
     "path": "Medium/0033_Search_in_Rotated_Sorted_Array.cpp"
+  },
+  {
+    "problemId": "3838",
+    "problemTitle": "Path Existence Queries in a Graph I",
+    "problemSlug": "path-existence-queries-in-a-graph-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "12 ms",
+    "memory": "223.9 MB",
+    "submissionId": "2062172928",
+    "timestamp": "1783625264",
+    "path": "Medium/3838_Path_Existence_Queries_in_a_Graph_I.cpp"
   }
 ]
