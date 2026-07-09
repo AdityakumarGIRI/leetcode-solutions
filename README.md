@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 12
+Total Solved: 13
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 12
 
 ## Medium
 
+- Search in Rotated Sorted Array ([C++](Medium/0033_Search_in_Rotated_Sorted_Array.cpp))
 - Remove Covered Intervals ([C++](Medium/1222_Remove_Covered_Intervals.cpp))
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
 - Minimum Score of a Path Between Two Cities ([C++](Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp))
@@ -28,7 +29,7 @@ Total Solved: 12
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 2 |
 
 ---
