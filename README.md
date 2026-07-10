@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 14
 ## Hard
 
 - Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
+- Path Existence Queries in a Graph II ([C++](Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp))
 - Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
 
 ## Statistics
@@ -31,7 +32,7 @@ Total Solved: 14
 |------------|--------|
 | Easy | 4 |
 | Medium | 8 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
