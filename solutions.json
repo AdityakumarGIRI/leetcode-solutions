@@ -180,5 +180,18 @@
     "submissionId": "2062172928",
     "timestamp": "1783625264",
     "path": "Medium/3838_Path_Existence_Queries_in_a_Graph_I.cpp"
+  },
+  {
+    "problemId": "3852",
+    "problemTitle": "Path Existence Queries in a Graph II",
+    "problemSlug": "path-existence-queries-in-a-graph-ii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "157 ms",
+    "memory": "359 MB",
+    "submissionId": "2063163138",
+    "timestamp": "1783705653",
+    "path": "Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp"
   }
 ]
