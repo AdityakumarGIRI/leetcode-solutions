@@ -193,5 +193,18 @@
     "submissionId": "2063163138",
     "timestamp": "1783705653",
     "path": "Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp"
+  },
+  {
+    "problemId": "2793",
+    "problemTitle": "Count the Number of Complete Components",
+    "problemSlug": "count-the-number-of-complete-components",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "29 ms",
+    "memory": "136.9 MB",
+    "submissionId": "2064276539",
+    "timestamp": "1783801111",
+    "path": "Medium/2793_Count_the_Number_of_Complete_Components.cpp"
   }
 ]
