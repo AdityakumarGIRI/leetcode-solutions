@@ -214,10 +214,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "79 ms",
-    "memory": "45.8 MB",
-    "submissionId": "2065417211",
-    "timestamp": "1783886632",
+    "runtime": "83 ms",
+    "memory": "45.7 MB",
+    "submissionId": "2065417316",
+    "timestamp": "1783886643",
     "path": "Easy/1256_Rank_Transform_of_an_Array.cpp"
   }
 ]
