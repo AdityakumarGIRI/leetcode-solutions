@@ -206,5 +206,18 @@
     "submissionId": "2064276539",
     "timestamp": "1783801111",
     "path": "Medium/2793_Count_the_Number_of_Complete_Components.cpp"
+  },
+  {
+    "problemId": "1256",
+    "problemTitle": "Rank Transform of an Array",
+    "problemSlug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "79 ms",
+    "memory": "45.8 MB",
+    "submissionId": "2065417211",
+    "timestamp": "1783886632",
+    "path": "Easy/1256_Rank_Transform_of_an_Array.cpp"
   }
 ]
