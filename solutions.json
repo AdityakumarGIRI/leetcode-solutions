@@ -219,5 +219,18 @@
     "submissionId": "2065417316",
     "timestamp": "1783886643",
     "path": "Easy/1256_Rank_Transform_of_an_Array.cpp"
+  },
+  {
+    "problemId": "1212",
+    "problemTitle": "Sequential Digits",
+    "problemSlug": "sequential-digits",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "8.2 MB",
+    "submissionId": "2066634567",
+    "timestamp": "1783973818",
+    "path": "Medium/1212_Sequential_Digits.cpp"
   }
 ]
