@@ -232,5 +232,18 @@
     "submissionId": "2066634567",
     "timestamp": "1783973818",
     "path": "Medium/1212_Sequential_Digits.cpp"
+  },
+  {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2069075986",
+    "timestamp": "1784143145",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
   }
 ]
