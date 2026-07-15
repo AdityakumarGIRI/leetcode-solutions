@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 18
+Total Solved: 19
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 18
 - Rank Transform of an Array ([C++](Easy/1256_Rank_Transform_of_an_Array.cpp))
 - Check if the Sentence Is Pangram ([C++](Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
+- GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
 ## Medium
@@ -33,7 +34,7 @@ Total Solved: 18
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 10 |
 | Hard | 3 |
 
