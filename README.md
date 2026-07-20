@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
 - Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Rank Transform of an Array ([C++](Easy/1256_Rank_Transform_of_an_Array.cpp))
+- Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Check if the Sentence Is Pangram ([C++](Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -34,7 +35,7 @@ Total Solved: 19
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 10 |
 | Hard | 3 |
 
