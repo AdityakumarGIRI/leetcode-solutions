@@ -245,5 +245,18 @@
     "submissionId": "2069075986",
     "timestamp": "1784143145",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
+  },
+  {
+    "problemId": "1386",
+    "problemTitle": "Shift 2D Grid",
+    "problemSlug": "shift-2d-grid",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "18.1 MB",
+    "submissionId": "2075065542",
+    "timestamp": "1784578616",
+    "path": "Easy/1386_Shift_2D_Grid.cpp"
   }
 ]
