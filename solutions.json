@@ -258,5 +258,18 @@
     "submissionId": "2075065542",
     "timestamp": "1784578616",
     "path": "Easy/1386_Shift_2D_Grid.cpp"
+  },
+  {
+    "problemId": "3805",
+    "problemTitle": "Maximize Active Section with Trade I",
+    "problemSlug": "maximize-active-section-with-trade-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "122 ms",
+    "memory": "105.2 MB",
+    "submissionId": "2076387169",
+    "timestamp": "1784669273",
+    "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
   }
 ]
