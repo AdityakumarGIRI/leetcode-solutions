@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 22
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 21
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
 - Find a Safe Walk Through a Grid ([C++](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
+- Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
 - Path Existence Queries in a Graph I ([C++](Medium/3838_Path_Existence_Queries_in_a_Graph_I.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([C++](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp))
 
@@ -37,7 +38,7 @@ Total Solved: 21
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 3 |
 
 ---
