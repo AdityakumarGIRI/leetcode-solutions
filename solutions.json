@@ -271,5 +271,18 @@
     "submissionId": "2076387169",
     "timestamp": "1784669273",
     "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
+  },
+  {
+    "problemId": "3824",
+    "problemTitle": "Number of Unique XOR Triplets I",
+    "problemSlug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "199 MB",
+    "submissionId": "2078871580",
+    "timestamp": "1784839736",
+    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp"
   }
 ]
