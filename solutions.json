@@ -284,5 +284,18 @@
     "submissionId": "2078871580",
     "timestamp": "1784839736",
     "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp"
+  },
+  {
+    "problemId": "3820",
+    "problemTitle": "Number of Unique XOR Triplets II",
+    "problemSlug": "number-of-unique-xor-triplets-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1036 ms",
+    "memory": "106.8 MB",
+    "submissionId": "2079949847",
+    "timestamp": "1784916722",
+    "path": "Medium/3820_Number_of_Unique_XOR_Triplets_II.cpp"
   }
 ]
