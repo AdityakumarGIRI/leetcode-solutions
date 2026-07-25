@@ -297,5 +297,18 @@
     "submissionId": "2079949847",
     "timestamp": "1784916722",
     "path": "Medium/3820_Number_of_Unique_XOR_Triplets_II.cpp"
+  },
+  {
+    "problemId": "3859",
+    "problemTitle": "Maximum Product of Two Digits",
+    "problemSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "submissionId": "2081189339",
+    "timestamp": "1785008444",
+    "path": "Easy/3859_Maximum_Product_of_Two_Digits.cpp"
   }
 ]
