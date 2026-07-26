@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
+- Maximum Product of Three Numbers ([C++](Easy/0628_Maximum_Product_of_Three_Numbers.cpp))
 - Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Rank Transform of an Array ([C++](Easy/1256_Rank_Transform_of_an_Array.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
@@ -39,7 +40,7 @@ Total Solved: 24
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 13 |
 | Hard | 3 |
 
