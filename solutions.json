@@ -310,5 +310,18 @@
     "submissionId": "2081189339",
     "timestamp": "1785008444",
     "path": "Easy/3859_Maximum_Product_of_Two_Digits.cpp"
+  },
+  {
+    "problemId": "628",
+    "problemTitle": "Maximum Product of Three Numbers",
+    "problemSlug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.6 MB",
+    "submissionId": "2081618798",
+    "timestamp": "1785046085",
+    "path": "Easy/0628_Maximum_Product_of_Three_Numbers.cpp"
   }
 ]
