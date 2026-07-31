@@ -323,5 +323,18 @@
     "submissionId": "2081618798",
     "timestamp": "1785046085",
     "path": "Easy/0628_Maximum_Product_of_Three_Numbers.cpp"
+  },
+  {
+    "problemId": "3276",
+    "problemTitle": "Minimum Number of Pushes to Type Word II",
+    "problemSlug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.3 MB",
+    "submissionId": "2089242757",
+    "timestamp": "1785525977",
+    "path": "Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp"
   }
 ]
