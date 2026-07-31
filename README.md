@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 25
 - Minimum Score of a Path Between Two Cities ([C++](Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp))
 - Count the Number of Complete Components ([C++](Medium/2793_Count_the_Number_of_Complete_Components.cpp))
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
+- Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
 - Find a Safe Walk Through a Grid ([C++](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Number of Unique XOR Triplets II ([C++](Medium/3820_Number_of_Unique_XOR_Triplets_II.cpp))
@@ -41,7 +42,7 @@ Total Solved: 25
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 3 |
 
 ---
