@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 27
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
+- Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
 ## Medium
@@ -42,7 +43,7 @@ Total Solved: 27
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 14 |
 | Hard | 4 |
 
