@@ -362,5 +362,18 @@
     "submissionId": "2103370825",
     "timestamp": "1786476117",
     "path": "Easy/4107_Find_Missing_Elements.cpp"
+  },
+  {
+    "problemId": "3236",
+    "problemTitle": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "problemSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.8 MB",
+    "submissionId": "2103374319",
+    "timestamp": "1786476351",
+    "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
   }
 ]
