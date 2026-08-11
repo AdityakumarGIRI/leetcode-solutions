@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 28
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Check if the Sentence Is Pangram ([C++](Easy/1960_Check_if_the_Sentence_Is_Pangram.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
+- Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
@@ -43,7 +44,7 @@ Total Solved: 28
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 14 |
 | Hard | 4 |
 
