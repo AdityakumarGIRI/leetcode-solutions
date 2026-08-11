@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 26
 ## Hard
 
 - Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
+- Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Path Existence Queries in a Graph II ([C++](Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp))
 - Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
 
@@ -43,7 +44,7 @@ Total Solved: 26
 |------------|--------|
 | Easy | 9 |
 | Medium | 14 |
-| Hard | 3 |
+| Hard | 4 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
