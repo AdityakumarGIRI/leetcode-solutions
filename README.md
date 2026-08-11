@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 29
+Total Solved: 30
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 29
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
 - Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
 - Find a Safe Walk Through a Grid ([C++](Medium/3558_Find_a_Safe_Walk_Through_a_Grid.cpp))
+- Remove Methods From Project ([C++](Medium/3561_Remove_Methods_From_Project.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Number of Unique XOR Triplets II ([C++](Medium/3820_Number_of_Unique_XOR_Triplets_II.cpp))
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
@@ -45,7 +46,7 @@ Total Solved: 29
 | Difficulty | Count |
 |------------|--------|
 | Easy | 11 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 4 |
 
 ---
