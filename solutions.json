@@ -349,5 +349,18 @@
     "submissionId": "2103367369",
     "timestamp": "1786475882",
     "path": "Hard/1522_Stone_Game_III.cpp"
+  },
+  {
+    "problemId": "4107",
+    "problemTitle": "Find Missing Elements",
+    "problemSlug": "find-missing-elements",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "33.8 MB",
+    "submissionId": "2103370825",
+    "timestamp": "1786476117",
+    "path": "Easy/4107_Find_Missing_Elements.cpp"
   }
 ]
