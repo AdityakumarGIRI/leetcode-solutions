@@ -336,5 +336,18 @@
     "submissionId": "2089242757",
     "timestamp": "1785525977",
     "path": "Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp"
+  },
+  {
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "18 ms",
+    "memory": "146.4 MB",
+    "submissionId": "2103367369",
+    "timestamp": "1786475882",
+    "path": "Hard/1522_Stone_Game_III.cpp"
   }
 ]
