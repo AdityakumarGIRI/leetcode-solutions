@@ -375,5 +375,18 @@
     "submissionId": "2103374319",
     "timestamp": "1786476351",
     "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
+  },
+  {
+    "problemId": "3561",
+    "problemTitle": "Remove Methods From Project",
+    "problemSlug": "remove-methods-from-project",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "771 ms",
+    "memory": "326.8 MB",
+    "submissionId": "2103376380",
+    "timestamp": "1786476490",
+    "path": "Medium/3561_Remove_Methods_From_Project.cpp"
   }
 ]
