@@ -388,5 +388,18 @@
     "submissionId": "2103376380",
     "timestamp": "1786476490",
     "path": "Medium/3561_Remove_Methods_From_Project.cpp"
+  },
+  {
+    "problemId": "2319",
+    "problemTitle": "Longest Substring of One Repeating Character",
+    "problemSlug": "longest-substring-of-one-repeating-character",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "156 ms",
+    "memory": "98.8 MB",
+    "submissionId": "2105003405",
+    "timestamp": "1786599036",
+    "path": "Hard/2319_Longest_Substring_of_One_Repeating_Character.cpp"
   }
 ]
