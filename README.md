@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
@@ -38,6 +38,7 @@ Total Solved: 30
 
 - Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
+- Longest Substring of One Repeating Character ([C++](Hard/2319_Longest_Substring_of_One_Repeating_Character.cpp))
 - Path Existence Queries in a Graph II ([C++](Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp))
 - Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
 
@@ -47,7 +48,7 @@ Total Solved: 30
 |------------|--------|
 | Easy | 11 |
 | Medium | 15 |
-| Hard | 4 |
+| Hard | 5 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
