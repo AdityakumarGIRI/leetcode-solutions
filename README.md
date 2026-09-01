@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -32,6 +32,7 @@ Total Solved: 31
 - Number of Unique XOR Triplets II ([C++](Medium/3820_Number_of_Unique_XOR_Triplets_II.cpp))
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
 - Path Existence Queries in a Graph I ([C++](Medium/3838_Path_Existence_Queries_in_a_Graph_I.cpp))
+- Minimum Moves to Clean the Classroom ([C++](Medium/3870_Minimum_Moves_to_Clean_the_Classroom.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([C++](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp))
 
 ## Hard
@@ -47,7 +48,7 @@ Total Solved: 31
 | Difficulty | Count |
 |------------|--------|
 | Easy | 11 |
-| Medium | 15 |
+| Medium | 16 |
 | Hard | 5 |
 
 ---
