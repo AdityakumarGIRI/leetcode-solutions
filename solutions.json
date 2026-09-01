@@ -401,5 +401,18 @@
     "submissionId": "2105003405",
     "timestamp": "1786599036",
     "path": "Hard/2319_Longest_Substring_of_One_Repeating_Character.cpp"
+  },
+  {
+    "problemId": "3870",
+    "problemTitle": "Minimum Moves to Clean the Classroom",
+    "problemSlug": "minimum-moves-to-clean-the-classroom",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "242 ms",
+    "memory": "153.1 MB",
+    "submissionId": "2127734030",
+    "timestamp": "1788294616",
+    "path": "Medium/3870_Minimum_Moves_to_Clean_the_Classroom.cpp"
   }
 ]
