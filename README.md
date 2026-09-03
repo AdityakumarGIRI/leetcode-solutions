@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 33
+Total Solved: 34
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 33
 - Path Existence Queries in a Graph I ([C++](Medium/3838_Path_Existence_Queries_in_a_Graph_I.cpp))
 - Minimum Moves to Clean the Classroom ([C++](Medium/3870_Minimum_Moves_to_Clean_the_Classroom.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([C++](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp))
+- Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 
 ## Hard
 
@@ -49,7 +50,7 @@ Total Solved: 33
 | Difficulty | Count |
 |------------|--------|
 | Easy | 12 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 5 |
 
 ---
