@@ -427,5 +427,18 @@
     "submissionId": "2129488310",
     "timestamp": "1788430649",
     "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
+  },
+  {
+    "problemId": "4258",
+    "problemTitle": "Construct Uniform Parity Array II",
+    "problemSlug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "165.8 MB",
+    "submissionId": "2130046498",
+    "timestamp": "1788464122",
+    "path": "Medium/4258_Construct_Uniform_Parity_Array_II.cpp"
   }
 ]
