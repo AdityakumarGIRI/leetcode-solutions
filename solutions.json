@@ -414,5 +414,18 @@
     "submissionId": "2127734030",
     "timestamp": "1788294616",
     "path": "Medium/3870_Minimum_Moves_to_Clean_the_Classroom.cpp"
+  },
+  {
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.3 MB",
+    "submissionId": "2129488310",
+    "timestamp": "1788430649",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
   }
 ]
