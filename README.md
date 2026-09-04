@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 34
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
+- Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
 
 ## Medium
 
@@ -49,7 +50,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 17 |
 | Hard | 5 |
 
