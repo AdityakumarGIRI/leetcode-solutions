@@ -440,5 +440,18 @@
     "submissionId": "2131017007",
     "timestamp": "1788545201",
     "path": "Medium/4258_Construct_Uniform_Parity_Array_II.cpp"
+  },
+  {
+    "problemId": "4284",
+    "problemTitle": "Smallest Stable Index I",
+    "problemSlug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.1 MB",
+    "submissionId": "2131017285",
+    "timestamp": "1788545216",
+    "path": "Easy/4284_Smallest_Stable_Index_I.cpp"
   }
 ]
