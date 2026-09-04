@@ -435,10 +435,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
+    "runtime": "3 ms",
     "memory": "165.8 MB",
-    "submissionId": "2130046498",
-    "timestamp": "1788464122",
+    "submissionId": "2131017007",
+    "timestamp": "1788545201",
     "path": "Medium/4258_Construct_Uniform_Parity_Array_II.cpp"
   }
 ]
