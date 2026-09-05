@@ -453,5 +453,18 @@
     "submissionId": "2131017285",
     "timestamp": "1788545216",
     "path": "Easy/4284_Smallest_Stable_Index_I.cpp"
+  },
+  {
+    "problemId": "4285",
+    "problemTitle": "Smallest Stable Index II",
+    "problemSlug": "smallest-stable-index-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "11 ms",
+    "memory": "202.4 MB",
+    "submissionId": "2132005012",
+    "timestamp": "1788630150",
+    "path": "Medium/4285_Smallest_Stable_Index_II.cpp"
   }
 ]
