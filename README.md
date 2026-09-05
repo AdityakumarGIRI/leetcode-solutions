@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -37,6 +37,7 @@ Total Solved: 35
 - Minimum Moves to Clean the Classroom ([C++](Medium/3870_Minimum_Moves_to_Clean_the_Classroom.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum II ([C++](Medium/4136_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
+- Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
 
 ## Hard
 
@@ -51,7 +52,7 @@ Total Solved: 35
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 5 |
 
 ---
