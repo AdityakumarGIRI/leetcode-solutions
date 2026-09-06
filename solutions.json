@@ -466,5 +466,18 @@
     "submissionId": "2132005012",
     "timestamp": "1788630150",
     "path": "Medium/4285_Smallest_Stable_Index_II.cpp"
+  },
+  {
+    "problemId": "115",
+    "problemTitle": "Distinct Subsequences",
+    "problemSlug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "7 ms",
+    "memory": "8.9 MB",
+    "submissionId": "2133266576",
+    "timestamp": "1788725461",
+    "path": "Hard/0115_Distinct_Subsequences.cpp"
   }
 ]
