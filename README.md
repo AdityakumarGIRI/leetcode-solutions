@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 37
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Find Missing Elements ([C++](Easy/4107_Find_Missing_Elements.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
+- Count Commas in Range ([C++](Easy/4245_Count_Commas_in_Range.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 - Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
 
@@ -52,7 +53,7 @@ Total Solved: 37
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 18 |
 | Hard | 6 |
 
