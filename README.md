@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 38
 ## Hard
 
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
+- Distinct Subsequences II ([C++](Hard/0977_Distinct_Subsequences_II.cpp))
 - Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Longest Substring of One Repeating Character ([C++](Hard/2319_Longest_Substring_of_One_Repeating_Character.cpp))
@@ -55,7 +56,7 @@ Total Solved: 38
 |------------|--------|
 | Easy | 14 |
 | Medium | 18 |
-| Hard | 6 |
+| Hard | 7 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
