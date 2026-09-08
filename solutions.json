@@ -492,5 +492,18 @@
     "submissionId": "2135581197",
     "timestamp": "1788895681",
     "path": "Easy/4245_Count_Commas_in_Range.cpp"
+  },
+  {
+    "problemId": "977",
+    "problemTitle": "Distinct Subsequences II",
+    "problemSlug": "distinct-subsequences-ii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "submissionId": "2135582514",
+    "timestamp": "1788895788",
+    "path": "Hard/0977_Distinct_Subsequences_II.cpp"
   }
 ]
