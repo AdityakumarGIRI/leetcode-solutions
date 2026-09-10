@@ -518,5 +518,18 @@
     "submissionId": "2137606212",
     "timestamp": "1789051984",
     "path": "Medium/4248_Count_Commas_in_Range_II.cpp"
+  },
+  {
+    "problemId": "2347",
+    "problemTitle": "Count Nodes Equal to Average of Subtree",
+    "problemSlug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "10 ms",
+    "memory": "15.7 MB",
+    "submissionId": "2137607511",
+    "timestamp": "1789052060",
+    "path": "Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp"
   }
 ]
