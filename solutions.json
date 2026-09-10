@@ -505,5 +505,18 @@
     "submissionId": "2135582514",
     "timestamp": "1788895788",
     "path": "Hard/0977_Distinct_Subsequences_II.cpp"
+  },
+  {
+    "problemId": "4248",
+    "problemTitle": "Count Commas in Range II",
+    "problemSlug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9 MB",
+    "submissionId": "2137606212",
+    "timestamp": "1789051984",
+    "path": "Medium/4248_Count_Commas_in_Range_II.cpp"
   }
 ]
