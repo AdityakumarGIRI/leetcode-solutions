@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 40
+Total Solved: 41
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 40
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Remove Covered Intervals ([C++](Medium/1222_Remove_Covered_Intervals.cpp))
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
+- Count Nodes Equal to Average of Subtree ([C++](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp))
 - Minimum Score of a Path Between Two Cities ([C++](Medium/2582_Minimum_Score_of_a_Path_Between_Two_Cities.cpp))
 - Count the Number of Complete Components ([C++](Medium/2793_Count_the_Number_of_Complete_Components.cpp))
 - Find the Safest Path in a Grid ([C++](Medium/2914_Find_the_Safest_Path_in_a_Grid.cpp))
@@ -56,7 +57,7 @@ Total Solved: 40
 | Difficulty | Count |
 |------------|--------|
 | Easy | 14 |
-| Medium | 19 |
+| Medium | 20 |
 | Hard | 7 |
 
 ---
