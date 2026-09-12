@@ -531,5 +531,18 @@
     "submissionId": "2137607511",
     "timestamp": "1789052060",
     "path": "Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.cpp"
+  },
+  {
+    "problemId": "3562",
+    "problemTitle": "Maximum Score of Non-overlapping Intervals",
+    "problemSlug": "maximum-score-of-non-overlapping-intervals",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "932 ms",
+    "memory": "349.3 MB",
+    "submissionId": "2139904763",
+    "timestamp": "1789237500",
+    "path": "Hard/3562_Maximum_Score_of_Non-overlapping_Intervals.cpp"
   }
 ]
