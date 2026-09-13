@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 42
+Total Solved: 43
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 42
 ## Medium
 
 - Search in Rotated Sorted Array ([C++](Medium/0033_Search_in_Rotated_Sorted_Array.cpp))
+- Image Overlap ([C++](Medium/0864_Image_Overlap.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Remove Covered Intervals ([C++](Medium/1222_Remove_Covered_Intervals.cpp))
 - Number of Substrings Containing All Three Characters ([C++](Medium/1460_Number_of_Substrings_Containing_All_Three_Characters.cpp))
@@ -58,7 +59,7 @@ Total Solved: 42
 | Difficulty | Count |
 |------------|--------|
 | Easy | 14 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 8 |
 
 ---
