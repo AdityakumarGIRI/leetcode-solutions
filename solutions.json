@@ -544,5 +544,18 @@
     "submissionId": "2139904763",
     "timestamp": "1789237500",
     "path": "Hard/3562_Maximum_Score_of_Non-overlapping_Intervals.cpp"
+  },
+  {
+    "problemId": "864",
+    "problemTitle": "Image Overlap",
+    "problemSlug": "image-overlap",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "64 ms",
+    "memory": "12.8 MB",
+    "submissionId": "2140952254",
+    "timestamp": "1789326575",
+    "path": "Medium/0864_Image_Overlap.cpp"
   }
 ]
