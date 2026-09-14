@@ -557,5 +557,18 @@
     "submissionId": "2140952254",
     "timestamp": "1789326575",
     "path": "Medium/0864_Image_Overlap.cpp"
+  },
+  {
+    "problemId": "866",
+    "problemTitle": "Rectangle Overlap",
+    "problemSlug": "rectangle-overlap",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.7 MB",
+    "submissionId": "2141986166",
+    "timestamp": "1789417622",
+    "path": "Easy/0866_Rectangle_Overlap.cpp"
   }
 ]
