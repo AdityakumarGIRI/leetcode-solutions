@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 43
+Total Solved: 44
 
 ## Easy
 
 - Maximum Product of Three Numbers ([C++](Easy/0628_Maximum_Product_of_Three_Numbers.cpp))
+- Rectangle Overlap ([C++](Easy/0866_Rectangle_Overlap.cpp))
 - Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Rank Transform of an Array ([C++](Easy/1256_Rank_Transform_of_an_Array.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
@@ -58,7 +59,7 @@ Total Solved: 43
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 21 |
 | Hard | 8 |
 
