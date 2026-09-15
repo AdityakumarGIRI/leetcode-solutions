@@ -570,5 +570,18 @@
     "submissionId": "2141986166",
     "timestamp": "1789417622",
     "path": "Easy/0866_Rectangle_Overlap.cpp"
+  },
+  {
+    "problemId": "2559",
+    "problemTitle": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "problemSlug": "maximum-number-of-non-overlapping-palindrome-substrings",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "163 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2142978795",
+    "timestamp": "1789497677",
+    "path": "Hard/2559_Maximum_Number_of_Non-overlapping_Palindrome_Substrings.cpp"
   }
 ]
