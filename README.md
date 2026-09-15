@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -51,6 +51,7 @@ Total Solved: 44
 - Number of Paths with Max Score ([C++](Hard/1234_Number_of_Paths_with_Max_Score.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Longest Substring of One Repeating Character ([C++](Hard/2319_Longest_Substring_of_One_Repeating_Character.cpp))
+- Maximum Number of Non-overlapping Palindrome Substrings ([C++](Hard/2559_Maximum_Number_of_Non-overlapping_Palindrome_Substrings.cpp))
 - Maximum Score of Non-overlapping Intervals ([C++](Hard/3562_Maximum_Score_of_Non-overlapping_Intervals.cpp))
 - Path Existence Queries in a Graph II ([C++](Hard/3852_Path_Existence_Queries_in_a_Graph_II.cpp))
 - Network Recovery Pathways ([C++](Hard/3919_Network_Recovery_Pathways.cpp))
@@ -61,7 +62,7 @@ Total Solved: 44
 |------------|--------|
 | Easy | 15 |
 | Medium | 21 |
-| Hard | 8 |
+| Hard | 9 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
