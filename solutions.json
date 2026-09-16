@@ -583,5 +583,18 @@
     "submissionId": "2142978795",
     "timestamp": "1789497677",
     "path": "Hard/2559_Maximum_Number_of_Non-overlapping_Palindrome_Substrings.cpp"
+  },
+  {
+    "problemId": "1725",
+    "problemTitle": "Number of Sets of K Non-Overlapping Line Segments",
+    "problemSlug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "7.8 MB",
+    "submissionId": "2144045157",
+    "timestamp": "1789585320",
+    "path": "Medium/1725_Number_of_Sets_of_K_Non-Overlapping_Line_Segments.cpp"
   }
 ]
